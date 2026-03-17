@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\services\\verticesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\services\\verticesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\rendering\\graphcanvasrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\rendering\\graphcanvasrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\rendering\\igraphrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\rendering\\igraphrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\services\\matrixuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\services\\matrixuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\models\\graphmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\models\\graphmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\algorithms\\dijkstraanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\algorithms\\dijkstraanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|c:\\users\\user\\source\\repos\\dijkstrashortestpath\\dijkstrashortestpath.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3805DB0E-F778-1375-A7AD-7B7CC098166C}|DijkstraShortestPath.UI\\DijkstraShortestPath.UI.csproj|solutionrelative:dijkstrashortestpath.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:44:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\MainWindow.xaml",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T12:55:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DijkstraAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Algorithms\\DijkstraAnimator.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Algorithms\\DijkstraAnimator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Algorithms\\DijkstraAnimator.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Algorithms\\DijkstraAnimator.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:51:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphCanvasRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Rendering\\GraphCanvasRenderer.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Rendering\\GraphCanvasRenderer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Rendering\\GraphCanvasRenderer.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Rendering\\GraphCanvasRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:49:14.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGraphRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Rendering\\IGraphRenderer.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Rendering\\IGraphRenderer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Rendering\\IGraphRenderer.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Rendering\\IGraphRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:48:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixUIService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Services\\MatrixUIService.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Services\\MatrixUIService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Services\\MatrixUIService.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Services\\MatrixUIService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:47:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerticesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Services\\VerticesService.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Services\\VerticesService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Services\\VerticesService.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Services\\VerticesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:46:40.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Models\\GraphModel.cs",
+              "RelativeDocumentMoniker": "DijkstraShortestPath.UI\\Models\\GraphModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DijkstraShortestPath\\DijkstraShortestPath.UI\\Models\\GraphModel.cs",
+              "RelativeToolTip": "DijkstraShortestPath.UI\\Models\\GraphModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:45:51.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

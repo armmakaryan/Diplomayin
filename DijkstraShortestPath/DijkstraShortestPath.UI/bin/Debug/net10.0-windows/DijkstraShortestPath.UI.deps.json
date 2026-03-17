@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DijkstraShortestPath.UI/1.0.0": {
+        "runtime": {
+          "DijkstraShortestPath.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DijkstraShortestPath.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

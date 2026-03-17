@@ -1,0 +1,90 @@
+﻿<Window x:Class="DijkstraShortestPath.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Graph + Dijkstra Animation"
+        Width="1200" Height="720"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="12">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="430"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- LEFT PANEL -->
+        <Border Grid.Column="0" BorderBrush="#BDBDBD" BorderThickness="1" CornerRadius="8" Padding="12">
+            <StackPanel>
+
+                <TextBlock Text="Գրաֆի տվյալներ" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <!-- n -->
+                <TextBlock Text="Գագաթների քանակը (n)" FontWeight="Bold"/>
+                <StackPanel Orientation="Horizontal" Margin="0,6,0,0">
+                    <TextBox x:Name="NBox" Width="80" Height="28" Text="5" VerticalContentAlignment="Center"/>
+                    <Button Content="Generate"
+                            Width="120" Height="28"
+                            Margin="10,0,0,0"
+                            Click="Generate_Click"/>
+                </StackPanel>
+
+                <!-- vertices -->
+                <TextBlock Text="Vertices (յուրաքանչյուր տող՝ 1 անուն)"
+                           FontWeight="Bold" Margin="0,12,0,6"/>
+                <TextBox x:Name="VerticesBox"
+                         AcceptsReturn="True"
+                         VerticalScrollBarVisibility="Auto"
+                         Height="130"
+                         Text="A&#10;B&#10;C&#10;D&#10;E"/>
+
+                <!-- matrix -->
+                <TextBlock Text="Adjacency / Weight Matrix (0 = no edge)"
+                           FontWeight="Bold" Margin="0,12,0,6"/>
+
+                <DataGrid x:Name="MatrixGrid"
+                          Height="240"
+                          AutoGenerateColumns="True"
+                          CanUserAddRows="False"
+                          CanUserDeleteRows="False"
+                          HeadersVisibility="All"
+                          GridLinesVisibility="All"/>
+
+                <!-- directed/undirected -->
+                <CheckBox x:Name="DirectedCheck"
+                          Content="Ուղղված գրաֆ"
+                          Margin="0,10,0,0"/>
+
+                <!-- start/end -->
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <TextBlock Text="Start:" VerticalAlignment="Center" FontWeight="Bold"/>
+                    <ComboBox x:Name="StartCombo" Width="120" Margin="8,0,0,0"/>
+
+                    <TextBlock Text="End:" Margin="16,0,0,0" VerticalAlignment="Center" FontWeight="Bold"/>
+                    <ComboBox x:Name="EndCombo" Width="120" Margin="8,0,0,0"/>
+                </StackPanel>
+
+                <!-- buttons -->
+                <StackPanel Orientation="Horizontal" Margin="0,12,0,0">
+                    <Button Content="Build Graph"
+                            Width="130" Height="32"
+                            Click="BuildGraph_Click"/>
+                    <Button Content="Run Dijkstra (Animate)"
+                            Width="210" Height="32"
+                            Margin="10,0,0,0"
+                            Click="Run_Click"/>
+                </StackPanel>
+
+                <!-- status -->
+                <TextBlock x:Name="StatusText"
+                           Margin="0,12,0,0"
+                           TextWrapping="Wrap"
+                           Foreground="#333"/>
+            </StackPanel>
+        </Border>
+
+        <!-- RIGHT PANEL: CANVAS -->
+        <Border Grid.Column="1" Margin="12,0,0,0"
+                BorderBrush="#BDBDBD" BorderThickness="1" CornerRadius="8">
+            <Canvas x:Name="GraphCanvas" Background="White"/>
+        </Border>
+    </Grid>
+</Window>
